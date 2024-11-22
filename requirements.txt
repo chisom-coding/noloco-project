@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+requests-async
+http3
+python-dateutil
+case-converter
